@@ -23,12 +23,19 @@ Make sure the required dependencies are installed.
     nano script.py
 
 **LISTENING_PORT:** The port on which the script listens for UDP packets.
+
 **SERVER_IP:** The IP address of the destination server to which CoT messages will be sent.
+
 **DESTINATION_PORT:** The destination port on the server for receiving CoT messages.
+
 **COT_TYPE:** The type of CoT message to be sent.
+
 **TIMEZONE:** The desired timezone for timestamping the CoT messages.
+
 **LOOP_TIME:** The time interval (in seconds) between consecutive loops of CoT messages.
+
 **LOOP_ENABLED:** Set to True to enable the loop functionality or False to disable it.
+
 
 Run the script using the following command: 
 
